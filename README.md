@@ -22,7 +22,7 @@ I build AI systems end-to-end — data → models → APIs → deployed products
 | **[ULTON](https://github.com/maowiz/FYP-Project)** | Offline AI desktop voice assistant — **95+ voice commands**, face-recognition login, hand-gesture mouse | Local GGUF LLM (llama.cpp) · OpenVINO Whisper STT · MediaPipe · runs fully offline on CPU |
 | **[step2pdf](https://github.com/maowiz/step2pdf)** | CAD automation: 3D STEP models → dimensioned 2D engineering drawing PDFs | FreeCAD TechDraw · auto projection views · ISO 5455 scales · rule-based dimensioning |
 | **[NeuroScan AI](https://github.com/maowiz/NeuroScan-AI)** · [live demo](https://brain-tumor.netlify.app/) | Brain-tumor detection from MRI scans | VGG16 transfer learning · **99% test accuracy** · Flask API + React UI, deployed |
-| **[BOT_M](https://github.com/maowiz/BOT_M)** | SaaS knowledge-bot builder — train a RAG chatbot on websites/PDFs, embed it as a widget | LangChain · FAISS · embeddable widget, no ML expertise needed |
+| **[BOT_M](https://github.com/maowiz/BOT_M)** | Self-hosted knowledge-bot platform — crawl websites / upload docs, chat with source citations, embed anywhere | Custom Crawl4AI ingestion service · LanceDB · multi-LLM (OpenAI/Groq/Ollama) · RAG evaluation harness |
 | **[Portfolio](https://github.com/maowiz/My_Portfolio)** · [live](https://maowiz.github.io/My_Portfolio/) | Motion-design portfolio site | React 19 · Three.js/WebGL · GSAP · custom 18-component animation library |
 
 ## 🔒 Client work — case studies (code private by agreement)
